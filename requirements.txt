@@ -1,0 +1,7 @@
+streamlit
+gTTS
+streamlit-mic-recorder
+SpeechRecognition
+pandas
+openai
+Pillow
