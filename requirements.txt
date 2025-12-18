@@ -1,7 +1,6 @@
 streamlit
 gTTS
 streamlit-mic-recorder
-SpeechRecognition
 pandas
-openai
+google-generativeai
 Pillow
